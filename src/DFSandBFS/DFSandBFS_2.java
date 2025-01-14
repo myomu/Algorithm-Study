@@ -6,8 +6,11 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
-import java.util.Map;
 
+/**
+ * 미로 탈출
+ * 152p
+ */
 public class DFSandBFS_2 {
 
     static int N;
